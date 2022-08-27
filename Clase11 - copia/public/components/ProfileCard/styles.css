@@ -1,0 +1,14 @@
+section {
+    box-shadow: 5px 13px 25px black;
+    box-sizing: 5px 13px 58px -25px rgba(0,0,0);
+    border-color: black;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+    display: flex;
+    width: fit-content;
+}
+
+p{
+    padding: 2px;
+}
