@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+div#general{
+    margin:auto;
+    margin-top:50px;
+    width: 960px;
+    width: 800px;
+    background-color:rebeccapurple;
+}
